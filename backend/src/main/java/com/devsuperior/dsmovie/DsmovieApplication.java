@@ -1,13 +1,13 @@
-package com.devsuperopr.DSMovie.Atual4;
+package com.devsuperior.dsmovie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class DsmovieApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(DsmovieApplication.class, args);
 	}
 
 }
